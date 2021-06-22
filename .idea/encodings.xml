@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hk/com/example/genericty/Generics.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hk/disign/adapter/model/MyAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hk/thread/pool/MyRunnable.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
